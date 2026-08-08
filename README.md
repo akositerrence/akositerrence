@@ -1,3 +1,7 @@
 - Background: Mechanical Engineering @ North Dakota State University
 - Interests: Engineering Simulations, Loads & Dynamics, AI/ML
 - Experience: Fast Food, Composite Manufacturing, and Aerospace Research
+
+- Website: [akositerrence]((https://akositerrence.com/))
+- Linkedin: [@tsangabriel](https://www.linkedin.com/in/tsangabriel/)
+- Instagram: [@akosi_terrence](https://www.instagram.com/akosi_terrence/)
