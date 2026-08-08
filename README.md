@@ -1,3 +1,3 @@
-- Background: Mechanical Engineering, Computer Science
+- Background: Mechanical Engineering @ North Dakota State University
 - Interests: Engineering Simulations, Loads & Dynamics, AI/ML
-- Education: Senior @North Dakota State University
+- Experience: Fast Food, Composite Manufacturing, and Aerospace Research
